@@ -1,0 +1,28 @@
+th, td {
+    padding: 0.8rem 2rem; 
+}
+
+th {
+    background-color: maroon;
+    color: bisque
+
+}
+
+td {
+    background-color: bisque
+}
+
+/* table.destinos:hover {
+    border-spacing: 1rem;
+} */
+
+table.destinos {
+   empty-cells: hide;
+}
+}
+table.destinos td:after {
+    content: "%"
+}
+
+table.destinos tr:nth-child(odd) td {
+    background-color: aquamarine
