@@ -217,7 +217,7 @@ img.lucha {
   display: none;
 }
 
-/*.intro:hover  .bird{
+/*section.intro:hover .bird{
   display: block;
 }*/
 
@@ -230,7 +230,7 @@ img.lucha {
   animation-name: fly-cycle;
 	animation-duration: 1s;
 	animation-delay: -0.5s;
-	animation-timing-function: steps(10);
+	steps(10);
   animation-iteration-count: infinite;
   /*display: none;*/
 }
