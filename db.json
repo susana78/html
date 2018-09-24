@@ -23,5 +23,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "tareas": [
+   {"name": "clases curso paginas", "isComplete": false},
+   {"name": "reunion de trabajo", "isComplete": false},
+
+  ] 
 }
